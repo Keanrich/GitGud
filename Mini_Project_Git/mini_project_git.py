@@ -43,8 +43,7 @@ def modulus(a, b):
 
 
 def power(a, b):
-    # TODO: Tambahkan kode untuk operasi pangkat
-    pass
+    return a ** b
 
 
 def main():
