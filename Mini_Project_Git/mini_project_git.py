@@ -33,13 +33,11 @@ def multiply(a, b):
 
 
 def divide(a, b):
-    # TODO: Tambahkan pengecekan pembagi nol dan operasi pembagian
-    pass
+    return a / b
 
 
 def modulus(a, b):
-    # TODO: Tambahkan kode untuk operasi modulus
-    pass
+    return a % b
 
 
 def power(a, b):
