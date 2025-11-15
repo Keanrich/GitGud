@@ -23,7 +23,7 @@ def add(a, b):
 
 
 def subtract(a, b):
-    # TODO: Tambahkan kode untuk operasi pengurangan
+    return a - b
     pass
 
 
