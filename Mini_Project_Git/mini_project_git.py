@@ -24,12 +24,11 @@ def add(a, b):
 
 def subtract(a, b):
     return a - b
-    
+
 
 
 def multiply(a, b):
-    # TODO: Tambahkan kode untuk operasi perkalian
-    pass
+    return a * b
 
 
 def divide(a, b):
