@@ -18,8 +18,8 @@ dibagi kepada anggota tim untuk dikerjakan secara paralel.
 """
 
 def add(a, b):
-    # TODO: Tambahkan kode untuk operasi penjumlahan
-    pass
+    return a + b
+    
 
 
 def subtract(a, b):
